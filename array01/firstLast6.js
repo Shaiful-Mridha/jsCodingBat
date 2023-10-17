@@ -15,3 +15,4 @@ function firstLast6(nums) {
     return false;
   }
 }
+console.log(firstLast6([1, 2, 6]));

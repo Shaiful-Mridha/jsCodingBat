@@ -13,3 +13,4 @@ function sameFirstLast(nums) {
   }
   return nums[0] === nums[nums.length - 1];
 }
+console.log(sameFirstLast([1, 2, 3]));
